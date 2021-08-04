@@ -1,9 +1,0 @@
-{
-  "id": "d545a9c2-9efa-42b3-bbfc-93be63ab3911",
-  "name": "Container",
-  "isOverridable": true,
-  "isEnum": true,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": true
-}
