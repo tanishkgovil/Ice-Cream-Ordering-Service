@@ -1,0 +1,132 @@
+[
+  {
+    "id": "022bcdc1-8ea5-4756-a49f-76cec53b2d21",
+    "data": [
+      {
+        "text": "what container have I ordered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e41b80b-db80-41c1-b523-77d8b9b8efa0",
+    "data": [
+      {
+        "text": "what cone is my ice cream currently in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28b131fa-5f77-4618-8b97-f5e6e986990e",
+    "data": [
+      {
+        "text": "what flavor of ice cream is in my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3daa229c-c1e2-4bb1-9677-86b8c9053b9f",
+    "data": [
+      {
+        "text": "what toppings are in my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41fb456d-933a-4227-9ea7-0e93e14384f8",
+    "data": [
+      {
+        "text": "what toppings do I currently have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "973040fe-8d25-48da-93e5-cf85ee1974b0",
+    "data": [
+      {
+        "text": "How many scoops is my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2234e6ba-b93a-4a03-945e-9b3b6229e588",
+    "data": [
+      {
+        "text": "How much does this cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdf3bfae-a618-4164-95ef-f5d283af80f8",
+    "data": [
+      {
+        "text": "What is the price of my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ab0b66d-c950-4ddf-bfe8-122ef4ff2c7c",
+    "data": [
+      {
+        "text": "What is my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e6128e1-3472-4d77-8a89-6fb647f9d98b",
+    "data": [
+      {
+        "text": "What does my order consist of?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

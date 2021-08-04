@@ -1,0 +1,41 @@
+[
+  {
+    "id": "3746d12d-2710-4602-ad6e-7befb0b9af06",
+    "data": [
+      {
+        "text": "Restart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa474883-4ff8-46b3-8c5b-c8e1e19ff452",
+    "data": [
+      {
+        "text": "Cancel my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dda7c975-ab43-48db-a02c-e8a0d99682b3",
+    "data": [
+      {
+        "text": "Delete my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

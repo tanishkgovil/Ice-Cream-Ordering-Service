@@ -1,0 +1,32 @@
+[
+  {
+    "value": "waffle cone",
+    "synonyms": [
+      "waffle cone"
+    ]
+  },
+  {
+    "value": "sugar cone",
+    "synonyms": [
+      "sugar cone"
+    ]
+  },
+  {
+    "value": "cup",
+    "synonyms": [
+      "cup"
+    ]
+  },
+  {
+    "value": "scoop",
+    "synonyms": [
+      "scoop"
+    ]
+  },
+  {
+    "value": "topping",
+    "synonyms": [
+      "topping"
+    ]
+  }
+]

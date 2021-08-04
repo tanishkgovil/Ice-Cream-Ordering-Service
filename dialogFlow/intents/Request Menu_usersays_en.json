@@ -1,0 +1,145 @@
+[
+  {
+    "id": "a8649b5d-25e3-401f-a9f4-9d2519e1cb18",
+    "data": [
+      {
+        "text": "what are my choices",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d0e7e50-38cc-4cf9-96b7-d44818d49b82",
+    "data": [
+      {
+        "text": "what do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "852cf9b2-aa02-4b59-9c9e-bbf884e0fcb4",
+    "data": [
+      {
+        "text": "What is available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9023b4a9-75ad-4092-a63f-36f56a5adcb1",
+    "data": [
+      {
+        "text": "What is there to order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e7ab425-6075-4352-bff3-0769b70c69bc",
+    "data": [
+      {
+        "text": "What can I order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a086b49-1575-4d29-9bad-d37ed6522d02",
+    "data": [
+      {
+        "text": "What is in the menu today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31501314-1993-41d1-b5c6-b9188a0d0400",
+    "data": [
+      {
+        "text": "What are my options?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1daadd5-4c91-46c1-a871-c908b9137ff7",
+    "data": [
+      {
+        "text": "What flavors are available today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84ba1279-9802-4ad2-aedb-10aabe75b95f",
+    "data": [
+      {
+        "text": "Which toppings do you provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70301271-51db-4bee-bf96-6e7144b7fb6f",
+    "data": [
+      {
+        "text": "What types of containers are there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e68cb8a5-52be-47e7-a4c2-87606082dc52",
+    "data": [
+      {
+        "text": "What cones are there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
