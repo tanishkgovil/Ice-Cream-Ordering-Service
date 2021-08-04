@@ -1,0 +1,54 @@
+[
+  {
+    "id": "2234e6ba-b93a-4a03-945e-9b3b6229e588",
+    "data": [
+      {
+        "text": "How much does this cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdf3bfae-a618-4164-95ef-f5d283af80f8",
+    "data": [
+      {
+        "text": "What is the price of my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ab0b66d-c950-4ddf-bfe8-122ef4ff2c7c",
+    "data": [
+      {
+        "text": "What is my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e6128e1-3472-4d77-8a89-6fb647f9d98b",
+    "data": [
+      {
+        "text": "What does my order consist of?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
