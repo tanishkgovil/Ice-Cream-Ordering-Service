@@ -1,0 +1,35 @@
+{
+  "id": "53e40b25-8cca-40d7-8246-b5c7fda45e7a",
+  "name": "Request Menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Flavors are Chocolate, Vanilla, Strawberry, Mint.                             Containers are Cup, Sugar Cone, Waffle Cone.                                   Toppings are Hot Fudge, Sprinkles, Caramel, Fruit, Gummy Bears."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

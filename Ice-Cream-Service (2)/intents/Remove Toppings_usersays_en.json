@@ -1,0 +1,107 @@
+[
+  {
+    "id": "365cba80-c847-451e-9a10-a34d9ccf86a9",
+    "data": [
+      {
+        "text": "Please take away ",
+        "userDefined": false
+      },
+      {
+        "text": "sprinkles",
+        "meta": "@Toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7272beca-5a5a-42b5-a248-6239a50f4f1f",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "gummy bears",
+        "meta": "@Toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "sprinkles",
+        "meta": "@Toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": ", and ",
+        "userDefined": false
+      },
+      {
+        "text": "hot fudge",
+        "meta": "@Toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": " from order 3",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "238b9713-124b-45c0-bc13-89a5f58bfac7",
+    "data": [
+      {
+        "text": "delete ",
+        "userDefined": false
+      },
+      {
+        "text": "caramel",
+        "meta": "@Toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "fruit",
+        "meta": "@Toppings",
+        "alias": "toppings",
+        "userDefined": true
+      },
+      {
+        "text": " from order ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number-integer",
+        "alias": "orderNum",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "id": "4cb37a65-75ec-4a2c-b870-02ea78d14b9b",
+    "data": [
+      {
+        "text": "What is the price of a ",
+        "userDefined": false
+      },
+      {
+        "text": "scoop",
+        "meta": "@Item",
+        "alias": "getCostOf",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64c4623f-4926-41dd-bd93-595236af6e2f",
+    "data": [
+      {
+        "text": "How much does each ",
+        "userDefined": false
+      },
+      {
+        "text": "topping",
+        "meta": "@Item",
+        "alias": "getCostOf",
+        "userDefined": true
+      },
+      {
+        "text": " cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc0f0ca8-ce01-4d72-954e-96e3cd9f733f",
+    "data": [
+      {
+        "text": "How much do I have to pay for the ",
+        "userDefined": false
+      },
+      {
+        "text": "waffle cone",
+        "meta": "@Item",
+        "alias": "getCostOf",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

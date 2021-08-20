@@ -1,0 +1,80 @@
+[
+  {
+    "id": "639fe71b-0410-466b-85fd-6cd748ef3e1b",
+    "data": [
+      {
+        "text": "order finalized",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "963cbf6e-eb61-4545-86fc-c1bd8e7ebd79",
+    "data": [
+      {
+        "text": "that\u0027s it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3d7021c-2a37-4c42-8528-9290600f2cae",
+    "data": [
+      {
+        "text": "completed order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9649616-1654-4175-84cf-798e29f66bf8",
+    "data": [
+      {
+        "text": "finished",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4484270f-ce3c-41fd-8034-362014c8226d",
+    "data": [
+      {
+        "text": "Proceed to checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f261b56a-9018-431f-8de9-d141e56f7812",
+    "data": [
+      {
+        "text": "I\u0027m done with my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

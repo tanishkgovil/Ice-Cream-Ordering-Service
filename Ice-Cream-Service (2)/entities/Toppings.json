@@ -1,0 +1,9 @@
+{
+  "id": "ebe40ed1-e494-4388-82c0-42fb6f8edb44",
+  "name": "Toppings",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
